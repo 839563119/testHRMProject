@@ -1,0 +1,7 @@
+2020-06-11 09:54:38,864 INFO [root] [__init__.py(<module>:10)] - Test日志会不会打印！！！
+2020-06-11 09:54:50,523 INFO [root] [test_emp_params.py(test02_add_emp:44)] - app.HEADERS的值是：None
+2020-06-11 09:55:07,676 INFO [root] [__init__.py(<module>:10)] - Test日志会不会打印！！！
+2020-06-11 09:55:08,287 INFO [root] [test_login_params.py(test01_login_success:30)] - 登录接口返回的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': 'a4096282-05ce-4ea7-aece-a6e510d59046'}
+2020-06-11 09:55:08,287 INFO [root] [test_login_params.py(test01_login_success:36)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer a4096282-05ce-4ea7-aece-a6e510d59046'}
+2020-06-11 09:55:12,082 INFO [root] [test_login_params.py(test01_login_success:30)] - 登录接口返回的结果为：{'success': True, 'code': 10000, 'message': '操作成功！', 'data': '7716f9ad-a363-49af-aa48-ec7cb1e51530'}
+2020-06-11 09:55:12,082 INFO [root] [test_login_params.py(test01_login_success:36)] - 保存到全局变量中的请求头为：{'Content-Type': 'application/json', 'Authorization': 'Bearer 7716f9ad-a363-49af-aa48-ec7cb1e51530'}
